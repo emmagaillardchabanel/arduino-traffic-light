@@ -5,7 +5,7 @@
 ## 📌 Circuit Overview
 ![Circuit Schematic](./tinkercard-traffic-light.png)
 
-🔗 **Test the live simulation:** [(https://www.tinkercad.com/things/7POaFMM3SUN-feu-tricolore/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2Fall)]
+🔗 **Test the live simulation:** (https://www.tinkercad.com/things/7POaFMM3SUN-feu-tricolore/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2Fall)
 
 ## ⚙️ Features
 - Sequential management of traffic lights (Red, Yellow, Green).
